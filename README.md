@@ -9,7 +9,7 @@ O objetivo desta atividade foi analisar um framework de automação de testes de
 A imagem abaixo demonstra a execução bem-sucedida de um teste automatizado utilizando o Playwright. O cenário **"Verify Interactions Page"** foi executado com sucesso no navegador Chrome.
 
 <p align="center">
-  <img src="ReadMeImages/TesteExecutado.png" alt="Execução de teste Playwright" width="900"/>
+  <img src="ReadMeImages/I1.png" alt="Execução de teste Playwright" width="900"/>
 </p>
 
 <p align="center">
